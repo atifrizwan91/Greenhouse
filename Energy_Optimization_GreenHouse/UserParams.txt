@@ -1,0 +1,4 @@
+Temp-min,Temp-max
+21.0,25.0
+Humid-min,Humid-max
+40.0,65.0
