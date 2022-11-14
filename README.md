@@ -1,3 +1,7 @@
+# Architecture of the proposed model
+![](https://github.com/atifrizwan91/Greenhouse/blob/main/Images/Model.png)
+
+
 1. First of all Raspberry Pi 4 is configured and Ubuntu OS is installed
 2. The Putty is used to access the IoT device from the IoT platform
 3. Ubuntu is preferred instead of raspbian operating system because we have lot of support for IoTivity for ubuntu
@@ -61,6 +65,6 @@ Final Output of Client and server communication
 
 - Energy Saving percentage of proposed model
 
-![](https://github.com/atifrizwan91/Greenhouse/blob/main/Images/Energy%20Comparison.png)
+![](https://github.com/atifrizwan91/Greenhouse/blob/main/Images/energyCon.png)
 
 
