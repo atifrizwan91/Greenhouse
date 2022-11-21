@@ -1,4 +1,5 @@
 # Publication
+[Optimal Environment Control Mechanism Based on OCF Connectivity for Efficient Energy Consumption in Greenhouse](https://ieeexplore.ieee.org/document/9951153)
    ## APA
    A. Rizwan, A. N. Khan, R. Ahmad and D. H. Kim, "Optimal Environment Control Mechanism Based on OCF Connectivity for Efficient Energy Consumption in Greenhouse," in IEEE Internet of Things Journal, 2022, doi: 10.1109/JIOT.2022.3222086.
    
