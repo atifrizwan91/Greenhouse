@@ -1,12 +1,4 @@
-#------------------------------------------------------------------------------+
-#
-#   Sehrish Malik
-#   Simple Particle Swarm Optimization (PSO) with Python
-#   August, 2020
-#
-#------------------------------------------------------------------------------+
 
-#--- IMPORT DEPENDENCIES ------------------------------------------------------+
 
 from __future__ import division
 import random
